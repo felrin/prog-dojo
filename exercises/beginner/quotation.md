@@ -1,8 +1,11 @@
 # Quotation
 ## EN
-Készíts egy programot, ami kiírja az idézetet pontosan megfelelve a lenti formázásnak.
-A program írása során ne használj `endl`-t.
 
+### Task
+Write a program that
+Don't use `endl` in the program.
+
+### Example
 ```
 "I have always wished for 
     my computer to be as easy to use 
@@ -16,9 +19,12 @@ my telephone."
 ```
 
 ## HU
-Készíts egy programot, ami kiírja az idézetet pontosan megfelelve a lenti formázásnak.
+
+### Feladat
+Készíts egy programot, ami kiírja a példában látható idézetet pontosan megfelelve a lenti formázásnak.
 A program írása során ne használj `endl`-t.
 
+### Példa
 ```
 "I have always wished for 
     my computer to be as easy to use 

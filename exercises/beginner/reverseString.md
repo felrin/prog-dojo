@@ -1,12 +1,23 @@
 # Reverse String
 
 ## EN
-    
+
+### Task
 Write a program which reverses a string passed into it.
-'hello' => 'olleh'
-'how are you' => 'uoy era woh'
+
+### Example
+```
+hello => olleh
+how are you => uoy era woh
+```
 
 ## HU
+
+### Feladat
 Írj egy programot, amely megfordít egy string típusú bemenetet.
-'hello' => 'olleh'
-'how are you' => 'uoy era woh'
+
+### Példa
+```
+hello => olleh
+how are you => uoy era woh
+```
