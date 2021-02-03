@@ -1,2 +1,2 @@
-# prog-dojo
+# Prog Dojo
 Programming exercises
